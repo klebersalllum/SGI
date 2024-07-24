@@ -25,7 +25,7 @@ O que você precisa instalar para desenvolver e rodar o projeto:
 ## Baixe ou clone o repositório
 
 ```
-$ git clone https://github.com/deyvidandrades/SGC.git
+$ git clone https://github.com/klebersalllum/SGC.git
 ```
 
 ## Baixe a versão mais recente do binario(.jar)
@@ -97,5 +97,6 @@ Simule a venda e locação de imóveis, cadastre clientes, novos imóveis, funci
 
 ## Autores
 
-* **Deyvid Andrade** - [GIT](https://github.com/deyvidandrades)
-* **Kleber Salllum** - [GIT](https://github.com/klebersalllum/)
+* **Kleber Salllum** 
+* **Deyvid Andrade** 
+
